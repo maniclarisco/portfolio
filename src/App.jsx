@@ -13,7 +13,6 @@ import {
 
 const App = () => {
   return (
-    // browserROuter -> will allow us to route
     <BrowserRouter>
       <div className="relative z-0 bg-primary">
         <div className="bg-hero-pattern bg-cover bg-no-repeat bg-center">
@@ -25,9 +24,6 @@ const App = () => {
           <Experience />
           <Tech />
           <Works />
-          {/* <div className ="flex justify-center items-center h-screen">
-            <Social />
-          </div > */}
           <div className="relative z-0">
             <Contact />
             <StarsCanvas />

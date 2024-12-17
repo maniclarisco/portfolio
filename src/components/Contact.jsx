@@ -44,9 +44,9 @@ const Contact = () => {
         "template_rw3pdyt",
         {
           from_name: form.name,
-          to_name: "Aapsi",
+          to_name: "Mani kandan",
           from_email: form.email,
-          to_email: "aapsikhaira98@gmail.com",
+          to_email: "manidsamy888@gmail.com",
           message: form.message,
         },
         'uIkoOBAC74XPR4Nxp'
